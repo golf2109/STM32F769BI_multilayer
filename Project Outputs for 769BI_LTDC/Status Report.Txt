@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [769BI_LTDC.PcbDoc]
+   Generated File[769BI_LTDC.TXT]
+   Generated File[769BI_LTDC.LDP]
+   Generated File[769BI_LTDC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:42:20 On 20.10.2017

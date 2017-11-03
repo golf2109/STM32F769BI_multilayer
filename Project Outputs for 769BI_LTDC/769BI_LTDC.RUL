@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: H:\!Altium\Contact\769BI_multilayer\769BI_LTDC.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.98
+RuleKind=Width|RuleName=Width VCC_3|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=5.98
